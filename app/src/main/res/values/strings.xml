@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My tools</string>
+    <string name="selected">Selected</string>
+    <string name="app_list_preference_none">none</string>
+    <string name="about">About</string>
+    <string name="select_app_title_none">none</string>
+    <string name="unread_event_test">Unread Event Test</string>
+
+    <string name="unread_count_title">unread count</string>
+    <string name="send_unread_info_title">Send</string>
+    <string name="appinfo_error">Send failed.  select app error!</string>
+    <string name="unread_count_title_error">Send failed. unread count error!</string>
+    <string name="send_success">Send success!</string>
+    <string name="about_me_msg">Email:\n
+        <a href="mailto:rxmapple@gmail.com">rxmapple@email.com</a>
+    </string>
+</resources>
