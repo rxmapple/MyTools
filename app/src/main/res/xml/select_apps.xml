@@ -4,7 +4,7 @@
     <PreferenceCategory android:title="Unread Test">
         <com.rxmapple.mytools.SelectAppPreference
             android:key="select_app"
-            android:title="@string/about"
+            android:title="@string/select_app_title"
             android:summary="@string/select_app_title_none"
             />
 
